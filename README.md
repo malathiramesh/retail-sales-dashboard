@@ -1,6 +1,11 @@
 ## Project Overview
 This project analyzes retail sales data to identify key business insights such as total revenue, category performance, and sales distribution.
 
+## How to View
+
+1. Download the `.pbix` file and open in Power BI Desktop.  
+2. Explore visuals on the canvas.  
+3. Use filters/slicers for deeper insights.
 ## Business Questions Answered
 1. How much are we selling? (Total Sales)
 2. Which category performs best?
@@ -23,4 +28,5 @@ This project analyzes retail sales data to identify key business insights such a
 - Dashboard Screenshot
 
 ## 🚀 Author
+
 Malathi Ramesh
